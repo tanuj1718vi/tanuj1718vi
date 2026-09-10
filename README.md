@@ -116,7 +116,7 @@ class Tanuj:
 <img src="https://raw.githubusercontent.com/tanuj1718vi/tanuj1718vi/output/github-contribution-grid-snake.svg" width="100%"/>
 </div>
 
-> This animates your real contribution graph as a snake eating your commits, refreshed automatically. See the **1‑minute setup** below — it needs one GitHub Action file to go live.
+> This animates your real contribution graph as a snake eating your commits, refreshed automatically.
 
 <br/>
 
