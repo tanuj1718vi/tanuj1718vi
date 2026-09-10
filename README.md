@@ -20,7 +20,7 @@
 
 ## 🧠 About Me
 
-<img align="right" width="380" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"/>
+<img src="./assets/coding.gif" width="380">
 
 ```python
 class Tanuj:
