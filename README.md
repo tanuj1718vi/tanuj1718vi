@@ -1,4 +1,4 @@
-[new.md](https://github.com/user-attachments/files/32088957/new.md)
+[new rep.md](https://github.com/user-attachments/files/32089316/new.rep.md)
 <div align="center">
 
 <img src="assets/animations/hero.svg" width="900"/>
@@ -169,10 +169,10 @@ Network analysis tool for SIM-based connectivity detection.
 
 <br/>
 
-## 🏆 Trophies
+## 🏆 Achievements
 
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=tanuj1718vi&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1"/>
+<img src="assets/animations/achievements.svg" width="600"/>
 </div>
 
 <br/>
