@@ -15,7 +15,7 @@
 
 ## 🧠 System Profile
 
-<img src="assets/animations/system-profile.svg" width="520"/>
+<img src="assets/animations/system-profile-v2.svg" width="520"/>
 
 - 🔭 Currently building multi-agent orchestration platforms and RAG-powered assistants
 - 🌱 Deepening skills in Agentic AI, LangChain ReAct agents, and structured LLM outputs
@@ -112,34 +112,7 @@ Network analysis tool for SIM-based connectivity detection.
 
 ## 🏗️ Architecture — AEGIS-Runtime
 
-```
-                 USER
-                   │
-                   ▼
-            GOAL ANALYZER
-                   │
-                   ▼
-                PLANNER
-                   │
-             ┌─────┴─────┐
-             ▼           ▼
-          AGENT A      AGENT B
-             │           │
-             └─────┬─────┘
-                   ▼
-              RUNTIME
-                   │
-                   ▼
-             VERIFICATION
-              ╱         ╲
-             ▼           ▼
-         SUCCESS       FAILURE
-                         │
-                         ▼
-                       REPLAN
-```
-
-APEX and AEGIS-FraudGuard both run on this shared runtime.
+<img src="assets/animations/architecture.svg" width="600"/>
 
 <br/>
 
