@@ -1,13 +1,6 @@
 <div align="center">
 
-```
-                    TANUJ NEGI
-                AI SYSTEMS LAB
-       ───────────────────────────
-
-       AI/ML • AGENTIC AI • GENAI
-             RAG • PYTHON
-```
+<img src="assets/animations/hero.svg" width="900"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=8A63F5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96%3B+Agentic+AI+%2B+RAG+%2B+LLM+Pipelines+%E2%9A%A1%3B+Turning+Ideas+Into+Autonomous+Agents+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -22,32 +15,7 @@
 
 ## 🧠 System Profile
 
-```
-┌─────────────────────────────────────────┐
-│ SYSTEM PROFILE                          │
-├─────────────────────────────────────────┤
-│                                         │
-│ ROLE                                    │
-│ AI/ML Engineer                          │
-│                                         │
-│ SPECIALIZATION                          │
-│ Agentic AI / GenAI / RAG                │
-│                                         │
-│ PRIMARY LANGUAGE                        │
-│ Python                                  │
-│                                         │
-│ CURRENT FOCUS                           │
-│ Autonomous multi-agent orchestration    │
-│                                         │
-│ EDUCATION                               │
-│ B.Sc. IT, Uttaranchal University        │
-│ (2024–2027)                             │
-│                                         │
-│ STATUS                                  │
-│ ● BUILDING                              │
-│                                         │
-└─────────────────────────────────────────┘
-```
+<img src="assets/animations/system-profile.svg" width="520"/>
 
 - 🔭 Currently building multi-agent orchestration platforms and RAG-powered assistants
 - 🌱 Deepening skills in Agentic AI, LangChain ReAct agents, and structured LLM outputs
@@ -59,17 +27,7 @@
 
 ## ◉ AI Core
 
-```
-                    RAG
-                     ●
-                    ╱
-                   ╱
-        ML ● ──── ◎ ──── ● AGENTS
-                   ╲
-                    ╲
-                     ●
-                   MEMORY
-```
+<img src="assets/animations/ai-core.svg" width="520"/>
 
 <br/>
 
@@ -80,9 +38,7 @@
 <td width="50%" valign="top">
 
 **APEX** — Autonomous VMware Predictive Execution
-```
-● ACTIVE
-```
+<img src="assets/badges/badge-active.svg" height="26"/>
 Multi-agent orchestration platform on a custom **AEGIS-Runtime** engine — FastAPI backend, React/TypeScript "Signal Deck" UI, Gemini-powered reasoning, WebSocket streaming.
 
 `Python` `FastAPI` `React` `TypeScript` `Gemini`
@@ -93,9 +49,7 @@ Multi-agent orchestration platform on a custom **AEGIS-Runtime** engine — Fast
 <td width="50%" valign="top">
 
 **AEGIS-FraudGuard**
-```
-● ACTIVE
-```
+<img src="assets/badges/badge-active.svg" height="26"/>
 Fraud-detection system built on the AEGIS-Runtime engine — goal-driven agents with verification and replan loops.
 
 `Python` `AEGIS-Runtime`
@@ -108,9 +62,7 @@ Fraud-detection system built on the AEGIS-Runtime engine — goal-driven agents 
 <td width="50%" valign="top">
 
 **FORESIGHT**
-```
-● IN DEVELOPMENT
-```
+<img src="assets/badges/badge-dev.svg" height="26"/>
 Predictive intelligence system — early-stage build.
 
 `HTML` `Python`
@@ -121,9 +73,7 @@ Predictive intelligence system — early-stage build.
 <td width="50%" valign="top">
 
 **GoviCheck**
-```
-● COMPLETE
-```
+<img src="assets/badges/badge-complete.svg" height="26"/>
 Civic transparency platform — anonymous polls, parliament data, budget tracking. Built as a single-file app for a student presentation.
 
 `HTML` `JavaScript` `localStorage`
@@ -136,9 +86,7 @@ Civic transparency platform — anonymous polls, parliament data, budget trackin
 <td width="50%" valign="top">
 
 **The Draft Desk**
-```
-● COMPLETE
-```
+<img src="assets/badges/badge-complete.svg" height="26"/>
 Gmail-integrated AI email drafting workflow powered by Gemini + Streamlit.
 
 `Python` `Streamlit` `Gmail API` `Gemini`
@@ -149,9 +97,7 @@ Gmail-integrated AI email drafting workflow powered by Gemini + Streamlit.
 <td width="50%" valign="top">
 
 **SIM Network Detector**
-```
-● COMPLETE
-```
+<img src="assets/badges/badge-complete.svg" height="26"/>
 Network analysis tool for SIM-based connectivity detection.
 
 `Python`
