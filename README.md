@@ -1,7 +1,7 @@
-[new rep.md](https://github.com/user-attachments/files/32089316/new.rep.md)
+[reo.md](https://github.com/user-attachments/files/32089549/reo.md)
 <div align="center">
 
-<img src="assets/animations/hero.svg" width="900"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/animations/hero.svg" width="900"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=26&duration=2500&pause=800&color=8A63F5&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Building+Intelligent+Systems+%F0%9F%A4%96%3B+Agentic+AI+%2B+RAG+%2B+LLM+Pipelines+%E2%9A%A1%3B+Turning+Ideas+Into+Autonomous+Agents+%F0%9F%9A%80)](https://git.io/typing-svg)
 
@@ -16,7 +16,7 @@
 
 ## 🧠 System Profile
 
-<img src="assets/animations/system-profile-v2.svg" width="520"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/animations/system-profile-v2.svg" width="520"/>
 
 - 🔭 Currently building multi-agent orchestration platforms and RAG-powered assistants
 - 🌱 Deepening skills in Agentic AI, LangChain ReAct agents, and structured LLM outputs
@@ -28,7 +28,7 @@
 
 ## ◉ AI Core
 
-<img src="assets/animations/ai-core.svg" width="520"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/animations/ai-core.svg" width="520"/>
 
 <br/>
 
@@ -39,7 +39,7 @@
 <td width="50%" valign="top">
 
 **APEX** — Autonomous VMware Predictive Execution
-<img src="assets/badges/badge-active.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/badges/badge-active.svg" height="26"/>
 Multi-agent orchestration platform on a custom **AEGIS-Runtime** engine — FastAPI backend, React/TypeScript "Signal Deck" UI, Gemini-powered reasoning, WebSocket streaming.
 
 `Python` `FastAPI` `React` `TypeScript` `Gemini`
@@ -50,7 +50,7 @@ Multi-agent orchestration platform on a custom **AEGIS-Runtime** engine — Fast
 <td width="50%" valign="top">
 
 **AEGIS-FraudGuard**
-<img src="assets/badges/badge-active.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/badges/badge-active.svg" height="26"/>
 Fraud-detection system built on the AEGIS-Runtime engine — goal-driven agents with verification and replan loops.
 
 `Python` `AEGIS-Runtime`
@@ -63,7 +63,7 @@ Fraud-detection system built on the AEGIS-Runtime engine — goal-driven agents 
 <td width="50%" valign="top">
 
 **FORESIGHT**
-<img src="assets/badges/badge-dev.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/badges/badge-dev.svg" height="26"/>
 Predictive intelligence system — early-stage build.
 
 `HTML` `Python`
@@ -74,7 +74,7 @@ Predictive intelligence system — early-stage build.
 <td width="50%" valign="top">
 
 **GoviCheck**
-<img src="assets/badges/badge-complete.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/badges/badge-complete.svg" height="26"/>
 Civic transparency platform — anonymous polls, parliament data, budget tracking. Built as a single-file app for a student presentation.
 
 `HTML` `JavaScript` `localStorage`
@@ -87,7 +87,7 @@ Civic transparency platform — anonymous polls, parliament data, budget trackin
 <td width="50%" valign="top">
 
 **The Draft Desk**
-<img src="assets/badges/badge-complete.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/badges/badge-complete.svg" height="26"/>
 Gmail-integrated AI email drafting workflow powered by Gemini + Streamlit.
 
 `Python` `Streamlit` `Gmail API` `Gemini`
@@ -98,7 +98,7 @@ Gmail-integrated AI email drafting workflow powered by Gemini + Streamlit.
 <td width="50%" valign="top">
 
 **SIM Network Detector**
-<img src="assets/badges/badge-complete.svg" height="26"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/badges/badge-complete.svg" height="26"/>
 Network analysis tool for SIM-based connectivity detection.
 
 `Python`
@@ -113,7 +113,7 @@ Network analysis tool for SIM-based connectivity detection.
 
 ## 🏗️ Architecture — AEGIS-Runtime
 
-<img src="assets/animations/architecture.svg" width="600"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/animations/architecture.svg" width="600"/>
 
 <br/>
 
@@ -148,7 +148,7 @@ Network analysis tool for SIM-based connectivity detection.
 
 <div align="center">
 
-<img src="assets/animations/analytics-summary.svg" width="560"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/animations/analytics-summary.svg" width="560"/>
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=tanuj1718vi&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&count_private=true"/>
 <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=tanuj1718vi&theme=radical&hide_border=true&background=0d1117"/>
@@ -172,7 +172,7 @@ Network analysis tool for SIM-based connectivity detection.
 ## 🏆 Achievements
 
 <div align="center">
-<img src="assets/animations/achievements.svg" width="600"/>
+<img src="https://cdn.jsdelivr.net/gh/tanuj1718vi/tanuj1718vi@main/assets/animations/achievements.svg" width="600"/>
 </div>
 
 <br/>
